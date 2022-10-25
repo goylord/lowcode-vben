@@ -138,5 +138,6 @@
     "brotli",
     "tailwindcss",
     "sider"
-  ]
+  ],
+  "nuxt.isNuxtApp": false
 }
